@@ -4,9 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/custom_button.xml" value="0.16" />
+        <entry key="app/src/main/res/drawable/ic_baseline_mode_comment_24.xml" value="0.147" />
+        <entry key="app/src/main/res/drawable/question_layout.xml" value="0.147" />
         <entry key="app/src/main/res/font/content_font.xml" value="0.1578125" />
         <entry key="app/src/main/res/font/title_font.xml" value="0.18541666666666667" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20106048583984376" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.16532592773437502" />
+        <entry key="app/src/main/res/layout/activity_question.xml" value="0.21821695963541668" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.16" />
       </map>
     </option>
