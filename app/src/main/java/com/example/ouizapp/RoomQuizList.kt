@@ -5,7 +5,7 @@ import androidx.room.Entity
 import androidx.room.PrimaryKey
 
 // 문제 넘버, 문제내용, 정답1, 정답2, 정답3, 정답 맞힌 갯수
-@Entity
+@Entity(tableName = "room_quizlist")
 class RoomQuizList {
 
     @PrimaryKey(autoGenerate = true)
